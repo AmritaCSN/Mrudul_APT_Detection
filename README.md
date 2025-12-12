@@ -74,7 +74,7 @@ All code is written in **Python 3**. The core logic is contained within a single
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/YourUsername/APT-Detection-Transfer-Learning.git](https://github.com/YourUsername/APT-Detection-Transfer-Learning.git)
+    git clone [https://github.com/AmritaCSN/Mrudul_APT_Detection.git]
     ```
 
 2.  **Install Dependencies**
