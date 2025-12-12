@@ -77,16 +77,11 @@ All code is written in **Python 3**. The core logic is contained within a single
     git clone [https://github.com/AmritaCSN/Mrudul_APT_Detection.git]
     ```
 
-2.  **Install Dependencies**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3.  **Prepare Data**
+2.  **Prepare Data**
     Ensure `UNSW_NB15_APT_features_train.csv` and `test.csv` are in the root directory.
 
-4.  **Launch Jupyter Notebook**
+3.  **Launch Jupyter Notebook**
     ```bash
-    jupyter notebook APT_Detection_Pipeline.ipynb
+    jupyter notebook Stagewise_APT_Detection_Model_.ipynb
     ```
     *Note: Run cells sequentially. The training phase must complete (saving `.h5` files) before the Inference phase can run.*
